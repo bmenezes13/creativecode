@@ -1,0 +1,16 @@
+{
+	"origin": ["On #days#days and #days#days, I take a class called #classes#"],
+	"days" : ["Mon","Tues","Wednes","Thurs","Fri","Satur","Sun"],
+	"classes" : ["Computer Systems, which could be renamed #computer.capitalize# #systems.capitalize#","Artificial Intelligence, which could be renamed #artificial.capitalize# #intelligence.capitalize#","Creative Coding, which could be renamed #creative.capitalize# #coding.capitalize#","Software Security, which could be renamed #software.capitalize# #security.capitalize#"],
+	"artificial" : ["Artificial","Unreal", "Bogus","Counterfeit","Ersatz","Fabricated","Factitious","Faked","False","Falsie","Hyped up","manufactured","mock","phony","plastic","sham","simulated","specious","spurious","substitute","synthetic","unnatural"],
+	"intelligence":["intelligence","acumen","agility","brilliance","intellect","judgment","perception","quickness","savvy","sense","skill","subtlety","understanding","wit","IQ","acuity","alertness","aptitude","brainpower","brains","brightness","capacity","cleverness","comprehension","coruscation","discernment","luminosity","mentality","mind","penetration","perspicacity","precocity","quotient","reason","sagacity","smarts","trenchancy","gray matter"],
+	"computer" : ["computer","CPU","PC","abacus","analog","brain","calculator","clone","laptop","mac","mainframe","microcomputer","mini","minicomputer","adding machine","artificial intelligence","data processor","digital","electronic brain","micro","number cruncher","personal computer"
+,"thinking machine"],
+	"systems" : ["systems","arrangements","organizations","rules","schemes","structures","classifications","combinations","complexes","conformities","coordinations","entities","ideologies","integrals","orderlinesses","philosophies","regularities","setups","sums","theories","totalities","fixed orders","frame of references","integrates","logical orders","red tapes"],
+	"creative" : ["creative","gifted","ingenious","innovative","inventive","original","productive","prolific","visionary","originative","clever","cool","demiurgic","deviceful","fertile","formative","hip","innovational","innovatory","inspired","leading-edge","stimulating","way out"],
+	"coding" :  ["coding", "encrypting", "cyphering", "programming", "cashing", "enciphering", "crashing"],
+	"software" : ["software","operating system","program","spreadsheet","freeware","groupware","shareware","application","bundle","courseware","file management system","presentation","product","system","vaporware"],
+	"security" : ["bond","care","freedom","guarantee","insurance","preservation","surveillance","aegis","agreement","armament","armor","asylum","bail","collateral","compact","contract","covenant","cover","custody","defense","earnest","guard","immunity","pact","pawn","pledge","precaution","promise","redemption","refuge","retreat","safeguard","safekeeping","safeness","salvation","sanctuary","shelter","shield","surety","token","ward","warrant","safety measure"]
+}
+
+
