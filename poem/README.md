@@ -1,10 +1,32 @@
-# FrankenPoem
+# BlackCatPoem
 
-This project is a poem generator in Python. To see it run, download the [python script](frankpoem.py) and run it with Python or in a notebook. It will require [TextBlob](https://textblob.readthedocs.io), so make sure you've installed that first. 
+Using the example franken script as a basis, this program parses into a file titled "blackcat.txt", referring to The Black Cat short story, written by Edgar Allan Poe. After experimenting with different word type variations and patterns, I found a flow that I liked, resulting in poems made up each of four couplets.
+I have to admit using this story was... interesting to say the least. One could expect that making poetry out of a rather dark story will result in some rather dark results. 
+Ex1.:
+"the pestilence in frequent
+have than terrible
 
-This script also assumes you have a file called "frankenstein.txt" in the same directory that the script runs from. The contents of that file can be anything you want to appropriate from. If you have different files, you can just change the filename reference on line 9 of the script.
+the reason as strange
+get about fourth
 
-What this script will do is read the input file, parse it for parts of speech, then output a stanza of something that hopefully resembles poetry. The poetic quality of that output will vary widely based on the input. 
+a corpse with human
+have than rough
 
-Honestly (or should I say "frankly"? Get it?) I don't usually find the output of this script particularly compelling, but I think it's a good demonstration of some important concepts like working with a library and parts of speech tagging.
+a spirit of odious
+make that such"
+In this sample output, I could interpret the result as a poetry surrounding a question about death, and perhaps the meaning behind it.
+Ex2.:
+"the wretchedness of former
+make than new
+
+The course by expect
+confess of noose
+
+The dog with large
+get without uncomplaining
+
+the sobbing on continuous
+remove by radical"
+In this other poem my program spat out, I can sense a theme about some strong reform in order.
+
 
