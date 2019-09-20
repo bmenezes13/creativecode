@@ -24,15 +24,19 @@ In this sample output, I could interpret the result as a poetry surrounding a qu
 
 Ex2.:
 "the wretchedness of former
+
 make than new
 
 The course by expect
+
 confess of noose
 
 The dog with large
+
 get without uncomplaining
 
 the sobbing on continuous
+
 remove by radical"
 
 In this other poem my program spat out, I can sense a theme about some strong reform in order.
