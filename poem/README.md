@@ -14,6 +14,7 @@ have than rough
 
 a spirit of odious
 make that such"
+
 In this sample output, I could interpret the result as a poetry surrounding a question about death, and perhaps the meaning behind it.
 Ex2.:
 "the wretchedness of former
@@ -27,6 +28,7 @@ get without uncomplaining
 
 the sobbing on continuous
 remove by radical"
+
 In this other poem my program spat out, I can sense a theme about some strong reform in order.
 
 
