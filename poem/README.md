@@ -5,15 +5,19 @@ I have to admit using this story was... interesting to say the least. One could 
 
 Ex1.:
 "the pestilence in frequent
+
 have than terrible
 
 the reason as strange
+
 get about fourth
 
 a corpse with human
+
 have than rough
 
 a spirit of odious
+
 make that such"
 
 In this sample output, I could interpret the result as a poetry surrounding a question about death, and perhaps the meaning behind it.
