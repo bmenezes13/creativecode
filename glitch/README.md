@@ -1,1 +1,4 @@
+Note: You'll find all my images and their respective original source image in the folder titled "glitchGallery". File titles ending in 'F' refers to the edited images. 
 
+When thinking about glitches, what first comes to mind for me is video game glitches. In some games, glitches can be caused by something being out of place, with the system doing what it can to put things back in order. This causes in-game objects and the settings around them to look somewhat distorted in the case of an object being malplaced. 
+This led the theme I chose, selecting multiple images from google that showed something being "out of place" these images include: a zebra in the middle of an urban street, a red rose in a patch of yellow roses, a cow swimming alongside a dolphin, etc. Images in jpeg format were edited using pixelsort with masks (aside from penguinBirds, i found that one better without applying the mask), whereas  bitmap images were edited in Audacity.
