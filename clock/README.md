@@ -1,9 +1,7 @@
-# Concentric Clock
+# Domino Clock
 
-This is an abstract clock I made with p5.js. The easiest way to see it in action is to copy the contents of [the javascript file](concentric-clock.js)  into a [p5.js editor](http://editor.p5js.org) and run it.
+When researching interesting and unsual clocks in search of some inspiration, I came across this image of a wall clock made up of three domino pieces (source: http://www.instantshift.com/2013/07/08/coolest-and-unusual-clocks/).
 
-To read the clock's time, you have to count the number of dots in each circle. The inner ring (green) is hours, the middle ring (purple) is the number of minutes past the hour, and the outer (red) ring is the number of seconds past the minute.
+When wanting to apply this idea in p5js, I wanted to expand it as much as I can. While the source of inspiration only counted hours and minutes, I wanted my clock to display seconds, as well as the date.
 
-The concepts demonstrated in the code rely on some of the examples shared by Golan Levin in the instructions for his class's [clock assignment](https://github.com/golanlevin/lectures/tree/master/lecture_clock), and the look of it sort of resembles the soft bubbles of [bokeh photography](https://en.wikipedia.org/wiki/Bokeh).
-
-I like the abstract nature of this clock, even though that abstractness makes it less useful. I figure there are so many ways now to know what time it is (as I type this, I can see the current time displayed by my computer, by the watch on my wrist, and my phone on the desk next to me) that the goal of a time-based art work isn't so much to tell us what time it is but rather to encourage us to think about time and its representation.
+I used the standard date and time format (m/dd/yy and 00:00:00, respectively) and rotated them to be vertical, with month and hour on top, and year and seconds at the bottom. With both months and hours only counting up to twelve, they were each only designated one domino each, while the other measurements were each designated two dominos, one for each possible digit (in the case of a 0, the domino is left blank). 
