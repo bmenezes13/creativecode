@@ -1,1 +1,4 @@
-#HI#
+# Bruno's Final Portfolio
+# Projects affected: Screensaver, Clock, Glitch, Bot
+For my final project I took a bit of a gamble, combining four of my projects into one big p5js program to serve as my portfolio.
+At start we see my screensaver, which had its color palette streamlined as well the amount and speed of the spheres reduced for more fluidity. When moving the mouse over the screen, the display switches to my clock, comprised of dominos, which has had its color palette streamlined with the screensaver as well as some adaptations for a WEBGL canvas. The display will reset to the screensaver at every 30 second mark (not to be confused with every 30 seconds). Clicking anywhere during the clock, however, will take the user to the final page of the portfolio which includes my tracery bot adapted for p5js, as well as screenshots and a QR code for my latest additions to my glitch gallery on imgur, datamoshed GIFs. The program will not reset to the screensaver while it's in the portfolio page.
